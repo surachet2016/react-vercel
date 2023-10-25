@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test WEB on Vercel.
+          Test Deploy WEB on Vercel.
         </a>
       </header>
     </div>
